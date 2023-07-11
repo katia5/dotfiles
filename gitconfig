@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = beruska1@gmail.com
+	name = Jana Tuscher
